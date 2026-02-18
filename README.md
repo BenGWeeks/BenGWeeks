@@ -2,7 +2,7 @@
 
 **Chief Builder @ [KnowAll AI](https://www.knowall.ai)** | Author of [T-Minus-15](https://github.com/T-Minus-15/book) | Cambridge, UK
 
-I build AI agents, MCP servers, and Bitcoin-powered tools. I'm passionate about Nostr, decentralised protocols, putting AI to work in real business workflows, and giving AI agents their own Bitcoin wallets.
+I build AI agents, MCP servers & skills, and Bitcoin-powered tools. I'm passionate about Nostr, decentralised protocols, putting AI to work in real business workflows, and giving AI agents their own Bitcoin Lightning wallets for peer-to-peer payments.
 
 **Vision:** Building an agentic team that follows the methodology of going from Idea to Production within a single call with a client.
 
