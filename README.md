@@ -23,8 +23,8 @@ I build AI agents, MCP servers & skills, and Bitcoin-powered tools. I'm passiona
 - ⚡ [**zaplie-bot**](https://github.com/KnowAll-AI/zaplie-bot) — Microsoft Teams + Bitcoin microtransactions + AI agents ⭐ 6
 - 🏢 [**mcp-business-central**](https://github.com/KnowAll-AI/mcp-business-central) — MCP server for Microsoft Dynamics 365 Business Central ⭐ 6
 - 🎙️ [**Nod.ie**](https://github.com/KnowAll-AI/Nod.ie) — On-device local AI voice assistant built with Electron and Kyutai Unmute
-- 🎫 [**zapdesk**](https://github.com/KnowAll-AI/zapdesk) — Zendesk-style support ticketing portal backed by Azure DevOps
-- ⏱️ [**thyme**](https://github.com/KnowAll-AI/thyme) — Time tracking web app integrated with Dynamics 365 Business Central
+- 🎫 [**zapdesk**](https://github.com/KnowAll-AI/zapdesk) — Zendesk-style support ticketing portal backed by Azure DevOps (with bitcoin lightning tips)
+- ⏱️ [**thyme**](https://github.com/KnowAll-AI/thyme) — Time tracking web app integrated with Dynamics 365 Business Central (with Bitcoin lightning tips)
 - 🤖 [**pennie-bot**](https://github.com/KnowAll-AI/pennie-bot) — AI-powered business analyst that joins Microsoft Teams meetings
 - 🗣️ [**turbo-whisper**](https://github.com/KnowAll-AI/turbo-whisper) — SuperWhisper-like voice dictation for Linux with waveform UI ⭐ 4
 - 💚 [**sin-basura**](https://github.com/KnowAll-AI/sin-basura) — Nostr-based litter collection rewards for El Salvador
