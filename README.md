@@ -7,7 +7,7 @@ I build AI agents, MCP servers & skills, and Bitcoin-powered tools. I'm passiona
 **Vision:** Building an agentic team that follows the methodology of going from Idea to Production within a single call with a client.
 
 [![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat&logo=bitcoin&logoColor=white)](https://github.com/bengweeks/TheBitcoinPlaybook)
-[![Nostr](https://img.shields.io/badge/Nostr-8B5CF6?style=flat&logo=nostr&logoColor=white)](https://njump.me/npub1jutptdc2m8kgjmudtws095qk2tcale0eemvp4j2xnjnl4nh6669)
+[![Nostr](https://img.shields.io/badge/Nostr-8B5CF6?style=flat&logo=nostr&logoColor=white)](https://njump.me/npub1jutptdc2m8kgjmudtws095qk2tcale0eemvp4j2xnjnl4nh6669slrf04x)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](#)
 [![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)](#)
@@ -61,12 +61,14 @@ I build AI agents, MCP servers & skills, and Bitcoin-powered tools. I'm passiona
 
 ## 📖 T-Minus-15
 
-[**Secrets of an Elite DevOps Team**](https://github.com/T-Minus-15/book) — A book on building high-performing DevOps teams, covering everything from agile processes to deployment pipelines. ⭐ 10
+[![T-Minus-15](https://user-images.githubusercontent.com/26070818/212311870-b6109060-eb98-4b7e-8c03-3ec9f7739ac8.png)](https://github.com/T-Minus-15/book)
+
+[**Secrets of an Elite DevOps Team**](https://github.com/T-Minus-15/book) — A book on building high-performing DevOps teams, covering everything from agile processes to deployment pipelines. This is also the framework by which we're getting AI agents to work together. ⭐ 10
 
 ---
 
 ## 🔗 Find Me
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/bengweeks)
-[![Nostr](https://img.shields.io/badge/Nostr-8B5CF6?style=flat&logo=nostr&logoColor=white)](https://njump.me/npub1jutptdc2m8kgjmudtws095qk2tcale0eemvp4j2xnjnl4nh6669)
-[![KnowAll AI](https://img.shields.io/badge/KnowAll_AI-000000?style=flat&logo=data:image/svg+xml;base64,&logoColor=white)](https://www.knowall.ai)
+[![Nostr](https://img.shields.io/badge/Nostr-8B5CF6?style=flat&logo=nostr&logoColor=white)](https://njump.me/npub1jutptdc2m8kgjmudtws095qk2tcale0eemvp4j2xnjnl4nh6669slrf04x)
+[![KnowAll AI](https://img.shields.io/badge/KnowAll_AI-000000?style=flat&logoColor=white)](https://www.knowall.ai)
