@@ -4,7 +4,7 @@
 
 I build AI agents, MCP servers & skills, and Bitcoin-powered tools. I'm passionate about Nostr, decentralised protocols, putting AI to work in real business workflows, and giving AI agents their own Bitcoin Lightning wallets for peer-to-peer payments.
 
-**Vision:** Building an agentic team that follows the methodology of going from Idea to Production within a single call with a client.
+**Vision:** Building an agentic team that follows the T-Minus-15 methodology (see below) of going from Idea to Production within a single call with a client.
 
 [![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat&logo=bitcoin&logoColor=white)](https://github.com/bengweeks/TheBitcoinPlaybook)
 [![Nostr](https://img.shields.io/badge/Nostr-8B5CF6?style=flat&logo=nostr&logoColor=white)](https://njump.me/npub1jutptdc2m8kgjmudtws095qk2tcale0eemvp4j2xnjnl4nh6669slrf04x)
