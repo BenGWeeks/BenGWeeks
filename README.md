@@ -40,12 +40,14 @@ I build AI agents, MCP servers & skills, and Bitcoin-powered tools. I'm passiona
 - 🍺 [**Lightning-Beer-Tap**](https://github.com/bengweeks/Lightning-Beer-Tap) — PoC for a Lightning-powered beer tap ⚡
 - 🏧 [**fossa**](https://github.com/bengweeks/fossa) — Bitcoin DIY ATM for loose fiat change ⚡
 - 🔐 [**seedphrase-fixer**](https://github.com/bengweeks/seedphrase-fixer) — Fix a single incorrect word in a BIP-39 seed phrase ⚡
+- 🗺️ [**BTC Map**](https://btcmap.org) — Map of merchants accepting Bitcoin ⚡
 
 #### Nostr
 
 - 🟣 [**SnogGit**](https://github.com/bengweeks/SnogGit) — Decentralised source-control and dev planning built on Nostr ⭐ 3
 - 🌐 [**BenGWeeks.github.io**](https://github.com/bengweeks/BenGWeeks.github.io) — NIP-05 identifier hosting ⭐ 20
 - ⚡ [**ln-nostr-rs-relay**](https://github.com/bengweeks/ln-nostr-rs-relay) — Lightning-gated Nostr relay ⭐ 5
+- 📱 [**damus**](https://github.com/bengweeks/damus) — iOS Nostr client ⚡
 
 #### Community & Governance
 
