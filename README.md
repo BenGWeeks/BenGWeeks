@@ -22,24 +22,24 @@ I build AI agents, MCP servers & skills, and Bitcoin-powered tools. I'm passiona
 #### KnowAll AI
 
 - 🧠 [**mcp-neo4j-agent-memory**](https://github.com/KnowAll-AI/mcp-neo4j-agent-memory) — Memory management MCP server for AI agents using Neo4j knowledge graphs ⭐ 60
-- ⚡ [**zaplie-bot**](https://github.com/KnowAll-AI/zaplie-bot) — Microsoft Teams + Bitcoin microtransactions + AI agents ⭐ 6
+- ⚡ [**zaplie-bot**](https://github.com/KnowAll-AI/zaplie-bot) — Microsoft Teams + Bitcoin microtransactions + AI agents ⭐ 6 ⚡
 - 🏢 [**mcp-business-central**](https://github.com/KnowAll-AI/mcp-business-central) — MCP server for Microsoft Dynamics 365 Business Central ⭐ 6
 - 🎙️ [**Nod.ie**](https://github.com/KnowAll-AI/Nod.ie) — On-device local AI voice assistant built with Electron and Kyutai Unmute
 - 🎫 [**zapdesk**](https://github.com/KnowAll-AI/zapdesk) — Zendesk-style support ticketing portal backed by Azure DevOps (with bitcoin lightning tips) ⚡
 - ⏱️ [**thyme**](https://github.com/KnowAll-AI/thyme) — Time tracking web app integrated with Dynamics 365 Business Central (with Bitcoin lightning tips) ⚡
 - 🤖 [**pennie-bot**](https://github.com/KnowAll-AI/pennie-bot) — AI-powered business analyst that joins Microsoft Teams meetings
 - 🗣️ [**turbo-whisper**](https://github.com/KnowAll-AI/turbo-whisper) — SuperWhisper-like voice dictation for Linux with waveform UI ⭐ 4
-- 💚 [**sin-basura**](https://github.com/KnowAll-AI/sin-basura) — Nostr-based litter collection rewards for El Salvador
+- 💚 [**sin-basura**](https://github.com/KnowAll-AI/sin-basura) — Nostr-based litter collection rewards for El Salvador ⚡
 - 🐙 [**sallie-openclaw**](https://github.com/KnowAll-AI/sallie-openclaw) — AI agent task execution
 
 #### Bitcoin & Lightning
 
-- 📖 [**TheBitcoinPlaybook**](https://github.com/bengweeks/TheBitcoinPlaybook) — A digital transformation approach for companies to adopt Bitcoin ⭐ 3
-- 🐷 [**lightning-piggy-mobile**](https://github.com/bengweeks/lightning-piggy-mobile) — React PWA for kids and parents to manage Lightning wallets ⭐ 5
-- 🐷 [**lightning-piggy-3d**](https://github.com/bengweeks/lightning-piggy-3d) — 3D-printable Lightning piggy bank ⭐ 2
-- 🍺 [**Lightning-Beer-Tap**](https://github.com/bengweeks/Lightning-Beer-Tap) — PoC for a Lightning-powered beer tap
-- 🏧 [**fossa**](https://github.com/bengweeks/fossa) — Bitcoin DIY ATM for loose fiat change
-- 🔐 [**seedphrase-fixer**](https://github.com/bengweeks/seedphrase-fixer) — Fix a single incorrect word in a BIP-39 seed phrase
+- 📖 [**TheBitcoinPlaybook**](https://github.com/bengweeks/TheBitcoinPlaybook) — A digital transformation approach for companies to adopt Bitcoin ⭐ 3 ⚡
+- 🐷 [**lightning-piggy-mobile**](https://github.com/bengweeks/lightning-piggy-mobile) — React PWA for kids and parents to manage Lightning wallets ⭐ 5 ⚡
+- 🐷 [**lightning-piggy-3d**](https://github.com/bengweeks/lightning-piggy-3d) — 3D-printable Lightning piggy bank ⭐ 2 ⚡
+- 🍺 [**Lightning-Beer-Tap**](https://github.com/bengweeks/Lightning-Beer-Tap) — PoC for a Lightning-powered beer tap ⚡
+- 🏧 [**fossa**](https://github.com/bengweeks/fossa) — Bitcoin DIY ATM for loose fiat change ⚡
+- 🔐 [**seedphrase-fixer**](https://github.com/bengweeks/seedphrase-fixer) — Fix a single incorrect word in a BIP-39 seed phrase ⚡
 
 #### Nostr
 
