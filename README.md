@@ -11,6 +11,8 @@ I build AI agents, MCP servers & skills, and Bitcoin-powered tools. I'm passiona
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](#)
 [![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)](#)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](#)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)](#)
 [![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)](#)
 
 ---
@@ -23,8 +25,8 @@ I build AI agents, MCP servers & skills, and Bitcoin-powered tools. I'm passiona
 - ⚡ [**zaplie-bot**](https://github.com/KnowAll-AI/zaplie-bot) — Microsoft Teams + Bitcoin microtransactions + AI agents ⭐ 6
 - 🏢 [**mcp-business-central**](https://github.com/KnowAll-AI/mcp-business-central) — MCP server for Microsoft Dynamics 365 Business Central ⭐ 6
 - 🎙️ [**Nod.ie**](https://github.com/KnowAll-AI/Nod.ie) — On-device local AI voice assistant built with Electron and Kyutai Unmute
-- 🎫 [**zapdesk**](https://github.com/KnowAll-AI/zapdesk) — Zendesk-style support ticketing portal backed by Azure DevOps (with bitcoin lightning tips)
-- ⏱️ [**thyme**](https://github.com/KnowAll-AI/thyme) — Time tracking web app integrated with Dynamics 365 Business Central (with Bitcoin lightning tips)
+- 🎫 [**zapdesk**](https://github.com/KnowAll-AI/zapdesk) — Zendesk-style support ticketing portal backed by Azure DevOps (with bitcoin lightning tips) ⚡
+- ⏱️ [**thyme**](https://github.com/KnowAll-AI/thyme) — Time tracking web app integrated with Dynamics 365 Business Central (with Bitcoin lightning tips) ⚡
 - 🤖 [**pennie-bot**](https://github.com/KnowAll-AI/pennie-bot) — AI-powered business analyst that joins Microsoft Teams meetings
 - 🗣️ [**turbo-whisper**](https://github.com/KnowAll-AI/turbo-whisper) — SuperWhisper-like voice dictation for Linux with waveform UI ⭐ 4
 - 💚 [**sin-basura**](https://github.com/KnowAll-AI/sin-basura) — Nostr-based litter collection rewards for El Salvador
@@ -32,7 +34,7 @@ I build AI agents, MCP servers & skills, and Bitcoin-powered tools. I'm passiona
 
 #### Bitcoin & Lightning
 
-- ₿ [**TheBitcoinPlaybook**](https://github.com/bengweeks/TheBitcoinPlaybook) — A digital transformation approach for companies to adopt Bitcoin ⭐ 3
+- 📖 [**TheBitcoinPlaybook**](https://github.com/bengweeks/TheBitcoinPlaybook) — A digital transformation approach for companies to adopt Bitcoin ⭐ 3
 - 🐷 [**lightning-piggy-mobile**](https://github.com/bengweeks/lightning-piggy-mobile) — React PWA for kids and parents to manage Lightning wallets ⭐ 5
 - 🐷 [**lightning-piggy-3d**](https://github.com/bengweeks/lightning-piggy-3d) — 3D-printable Lightning piggy bank ⭐ 2
 - 🍺 [**Lightning-Beer-Tap**](https://github.com/bengweeks/Lightning-Beer-Tap) — PoC for a Lightning-powered beer tap
@@ -54,7 +56,7 @@ I build AI agents, MCP servers & skills, and Bitcoin-powered tools. I'm passiona
 - 🔑 [**turbo-keys**](https://github.com/bengweeks/turbo-keys) — MiniKeyboard key configuration tool
 - 🌍 [**turbo-translate**](https://github.com/bengweeks/turbo-translate) — Translation utility
 - 🔋 [**upowertray**](https://github.com/bengweeks/upowertray) — Lightweight Qt6 battery tray indicator for KDE Plasma on Wayland
-- 🖥️ [**black-panther**](https://github.com/bengweeks/black-panther) — Home Bitcoin and home server setup
+- 🖥️ [**black-panther**](https://github.com/bengweeks/black-panther) — Home Bitcoin and home server setup ₿
 - 📊 [**mcp-servers**](https://github.com/bengweeks/mcp-servers) — Collection of MCP servers for educational and family-focused AI
 
 ---
